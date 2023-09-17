@@ -1,0 +1,9 @@
+{
+  "name": "hasura",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "hasura console --admin-secret myadminsecretkey"
+  },
+  "devDependencies": {}
+}
